@@ -1,0 +1,1 @@
+mongodb+srv://divisha:Divisha24@projectcluster.tx9gp0v.mongodb.net/Divisha?retryWrites=true&w=majority
